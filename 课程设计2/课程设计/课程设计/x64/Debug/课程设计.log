@@ -1,0 +1,7 @@
+﻿D:\vs\vs.home\home.1\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(课程设计.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  ManageMent.cpp
+D:\c++课程设计\课程设计2\课程设计\课程设计\BasicWidget.h(1,1): warning C4828: 文件包含在偏移 0x290 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\vs\vs.home\home.1\VC\Auxiliary\VS\include\graphics.h(1,1): warning C4828: 文件包含在偏移 0x19d3 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+D:\c++课程设计\课程设计2\课程设计\课程设计\ManageMent.cpp(45,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+LINK : warning LNK4075: 忽略“/INCREMENTAL”(由于“/FORCE”规范)
+  课程设计.vcxproj -> D:\c++课程设计\课程设计2\课程设计\x64\Debug\kecheng.exe
